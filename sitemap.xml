@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://t115570018-coder.github.io/HW2/</loc>
+       <lastmod>2026-10-30T09:06:29+00:00</lastmod>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://t115570018-coder.github.io/HW2/index.html</loc>
+       <lastmod>2026-10-30T09:06:29+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://t115570018-coder.github.io/HW2/a1.html</loc>
+       <lastmod>2026-10-30T09:06:29+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://t115570018-coder.github.io/HW2/a2.html</loc>
+       <lastmod>2026-10-30T09:06:29+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://t115570018-coder.github.io/HW2/a3.html</loc>
+       <lastmod>2026-10-30T09:06:29+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://t115570018-coder.github.io/HW2/a4.html</loc>
+       <lastmod>2026-10-30T09:06:29+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+</urlset>
